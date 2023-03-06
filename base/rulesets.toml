@@ -31,6 +31,18 @@ group = "🛑 拦截"
 ruleset = "rules/Reject/BanProgramAD.list"
 
 [[rulesets]]
+group = "Netflix"
+ruleset = "rules/Proxy/Netflix.list"
+
+[[rulesets]]
+group = "Bilibili"
+ruleset = "rules/Proxy/Bilibili.list"
+
+[[rulesets]]
+group = "OpenAi"
+ruleset = "rules/OpenAI/OpenAI.list"
+
+[[rulesets]]
 group = "节点选择"
 ruleset = "rules/Proxy/Apple.list"
 
@@ -45,18 +57,6 @@ ruleset = "rules/Proxy/GFW.list"
 [[rulesets]]
 group = "节点选择"
 ruleset = "rules/Proxy/Microsoft.list"
-
-[[rulesets]]
-group = "Netflix"
-ruleset = "rules/Proxy/Netflix.list"
-
-[[rulesets]]
-group = "Bilibili"
-ruleset = "rules/Proxy/Bilibili.list"
-
-[[rulesets]]
-group = "OpenAi"
-ruleset = "rules/OpenAI/OpenAI.list"
 
 [[rulesets]]
 group = "🐟 漏网之鱼"
