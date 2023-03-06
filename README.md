@@ -16,10 +16,10 @@
 |-|-|
 |[Apple.list](https://github.com/KarasuShin/subconverter-config/blob/master/Proxy/Apple.list)|Apple Inc.|
 |[Bilibili.list](https://github.com/KarasuShin/subconverter-config/blob/master/Proxy/Bilibili.list)|Bilibili港澳台|
-|[GFW.list](https://github.com/KarasuShin/subconverter-config/blob/master/Proxy/GFW.list)|the great wall|
+|[GFW.list](https://github.com/KarasuShin/subconverter-config/blob/master/Proxy/GFW.list)|The Great Wall|
 |[Google.list](https://github.com/KarasuShin/subconverter-config/blob/master/Proxy/Google.list)|Google|
 |[Microsoft.list](https://github.com/KarasuShin/subconverter-config/blob/master/Proxy/Microsoft.list)|微软|
-|[PROXY.list](https://github.com/KarasuShin/subconverter-config/blob/master/Proxy/Netflix.list)|网飞|
+|[Netflix.list](https://github.com/KarasuShin/subconverter-config/blob/master/Proxy/Netflix.list)|网飞|
 |[OpenAI.list](https://github.com/KarasuShin/subconverter-config/blob/master/Proxy/OpenAI.list)|OpenAI|
 
 ### Reject
