@@ -32,7 +32,7 @@
 |[BanEasyPrivacy.list](https://github.com/KarasuShin/subconverter-config/blob/master/Reject/BanEasyPrivacy.list)|ABP EasyPrivacy 隐私保护，屏蔽隐私追踪|
 |[BanProgramAD.list](https://github.com/KarasuShin/subconverter-config/blob/master/Reject/BanProgramAD.list)|常用应用的各种去广告规则|
 
-## 相关引用:
+## 相关引用
 
 [tindy2013/subconverter](https://github.com/tindy2013/subconverter)
 
