@@ -1,0 +1,63 @@
+[[rulesets]]
+group = "🎯 直连"
+ruleset = "rules/Direct/LAN.list"
+
+[[rulesets]]
+group = "🎯 直连"
+ruleset = "rules/Direct/ChinaDomain.list"
+
+[[rulesets]]
+group = "🎯 直连"
+ruleset = "rules/Direct/ChinaIP.list"
+
+[[rulesets]]
+group = "🛑 拦截"
+ruleset = "rules/Reject/BanAD.list"
+
+[[rulesets]]
+group = "🛑 拦截"
+ruleset = "rules/Reject/BanEasy.list"
+
+[[rulesets]]
+group = "🛑 拦截"
+ruleset = "rules/Reject/BanEasyChina.list"
+
+[[rulesets]]
+group = "🛑 拦截"
+ruleset = "rules/Reject/BanEasyPrivacy.list"
+
+[[rulesets]]
+group = "🛑 拦截"
+ruleset = "rules/Reject/BanProgramAD.list"
+
+[[rulesets]]
+group = "节点选择"
+ruleset = "rules/Proxy/Apple.list"
+
+[[rulesets]]
+group = "节点选择"
+ruleset = "rules/Proxy/Google.list"
+
+[[rulesets]]
+group = "节点选择"
+ruleset = "rules/Proxy/GFW.list"
+
+[[rulesets]]
+group = "节点选择"
+ruleset = "rules/Proxy/Microsoft.list"
+
+[[rulesets]]
+group = "Netflix"
+ruleset = "rules/Proxy/Netflix.list"
+
+[[rulesets]]
+group = "Bilibili"
+ruleset = "rules/Proxy/Bilibili.list"
+
+[[rulesets]]
+group = "OpenAi"
+ruleset = "rules/OpenAI/OpenAI.list"
+
+[[rulesets]]
+group = "🐟 漏网之鱼"
+ruleset = "[]FINAL"
