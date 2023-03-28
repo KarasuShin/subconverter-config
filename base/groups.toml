@@ -34,7 +34,7 @@ type = "select"
 rule = ["^(?!.*(?:香港|菲律宾|新加坡|台湾|日本|美国)).*$"]
 
 [[custom_groups]]
-name = "节点选择"
+name = "GFW"
 type = "select"
 rule = [
   "[]🇭🇰 香港",
@@ -89,6 +89,46 @@ rule = [
 name = "OpenAI"
 type = "select"
 rule = [
+  "[]🇭🇰 香港",
+  "[]🇵🇭 菲律宾",
+  "[]🇸🇬 新加坡",
+  "[]🇨🇳 台湾",
+  "[]🇯🇵 日本",
+  "[]🇺🇸 美国",
+  "[]其它国家",
+]
+
+[[custom_groups]]
+name = "Google"
+type = "select"
+rule = [
+  "[]🇭🇰 香港",
+  "[]🇵🇭 菲律宾",
+  "[]🇸🇬 新加坡",
+  "[]🇨🇳 台湾",
+  "[]🇯🇵 日本",
+  "[]🇺🇸 美国",
+  "[]其它国家",
+]
+
+[[custom_groups]]
+name = "Microsoft"
+type = "select"
+rule = [
+  "[]🇭🇰 香港",
+  "[]🇵🇭 菲律宾",
+  "[]🇸🇬 新加坡",
+  "[]🇨🇳 台湾",
+  "[]🇯🇵 日本",
+  "[]🇺🇸 美国",
+  "[]其它国家",
+]
+
+[[custom_groups]]
+name = "Apple"
+type = "select"
+rule = [
+  "[]🇭🇰 香港",
   "[]🇵🇭 菲律宾",
   "[]🇸🇬 新加坡",
   "[]🇨🇳 台湾",

@@ -39,24 +39,24 @@ group = "Bilibili"
 ruleset = "rules/Proxy/Bilibili.list"
 
 [[rulesets]]
-group = "OpenAi"
-ruleset = "rules/OpenAI/OpenAI.list"
+group = "OpenAI"
+ruleset = "rules/Proxy/OpenAI.list"
 
 [[rulesets]]
-group = "节点选择"
-ruleset = "rules/Proxy/Apple.list"
-
-[[rulesets]]
-group = "节点选择"
+group = "Google"
 ruleset = "rules/Proxy/Google.list"
 
 [[rulesets]]
-group = "节点选择"
-ruleset = "rules/Proxy/GFW.list"
+group = "Microsoft"
+ruleset = "rules/Proxy/Microsoft.list"
 
 [[rulesets]]
-group = "节点选择"
-ruleset = "rules/Proxy/Microsoft.list"
+group = "Apple"
+ruleset = "rules/Proxy/Apple.list"
+
+[[rulesets]]
+group = "GFW"
+ruleset = "rules/Proxy/GFW.list"
 
 [[rulesets]]
 group = "🐟 漏网之鱼"
